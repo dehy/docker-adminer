@@ -47,3 +47,8 @@ This is a rather common setup following docker's conventions:
 ## Docker Cloud
 
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/dehy/docker-adminer)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdehy%2Fdocker-adminer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdehy%2Fdocker-adminer?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdehy%2Fdocker-adminer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdehy%2Fdocker-adminer?ref=badge_large)
